@@ -1,0 +1,19 @@
+ID-11:
+Actual => Yes
+CORRECTLY classified as Yes.
+––––––––––––––//––––––––––––
+ID-12:
+Actual => Yes
+CORRECTLY classified as Yes.
+––––––––––––––//––––––––––––
+ID-13:
+Actual => Yes
+CORRECTLY classified as Yes.
+––––––––––––––//––––––––––––
+ID-14:
+Actual => No
+INCORRECTLY classified as Yes. ==> [X]
+––––––––––––––//––––––––––––
+
+Percentage correctly classified => 75%
+

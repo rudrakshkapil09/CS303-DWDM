@@ -1,0 +1,15 @@
+R1 Youth 	High 	No 	Fair 		No
+R2 Youth 	High 	No 	Excellent 	No
+R3 Middle_Aged 	High 	No 	Fair 		Yes
+R4 Senior	Medium	No 	Fair 		Yes
+R5 Senior	Low	Yes	Fair		Yes	
+R6 Senior	Low	Yes	Excellent	No
+R7 Middle_Aged	Low	Yes	Excellent	Yes
+R8 Youth	Medium 	No	Fair		No
+R9 Youth	Low	Yes	Fair		Yes
+R10 Senior	Medium	Yes	Fair		Yes
+R11 Youth	Medium	Yes	Excellent	Yes
+R12 Middle_Aged	Medium	No	Excellent	Yes
+R13 Middle_Aged	High	Yes	Fair		Yes
+R14 Senior	Medium	No	Excellent	No
+END
